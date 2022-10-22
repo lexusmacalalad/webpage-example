@@ -92,3 +92,21 @@ main {
   color: #2b78e4;
 }
 /* *** End Classes *** */
+
+/* *** Media Queries *** */
+@media screen and (min-width: 600px) {
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .training-option {
+    padding: 20px;
+  }
+
+  .training-option img {
+    width: 250px;
+    height: 250px;
+  }
+}
