@@ -109,4 +109,19 @@ main {
     width: 250px;
     height: 250px;
   }
+
+  footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+  .social-media img {
+    margin-right: 30px;
+  }
+
+  .contact-info {
+    display: flex;
+    align-items: flex-end;
+  }
 }
