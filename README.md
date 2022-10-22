@@ -40,3 +40,8 @@ header {
   align-items: center;
 }
 ```
+
+##Wireframes
+
+![Figma view](./images/index_wireframe_mobile.png)
+![Browser view](./images/website_mobile_view.png)

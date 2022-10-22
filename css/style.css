@@ -70,4 +70,25 @@ footer {
 .contact-info p {
   margin: 2px;
 }
+
+main {
+  padding: 20px;
+}
+
+.training-option {
+  margin-bottom: 20px;
+  padding-top: 25px;
+  background-color: #ff9900;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.training-option img {
+  width: 300px;
+}
+
+.training-option h3{
+  color: #2b78e4;
+}
 /* *** End Classes *** */
